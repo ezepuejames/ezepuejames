@@ -4,4 +4,4 @@ Fullstack software engineer building data-heavy web and mobile products in TypeS
 
 Stack: TypeScript, React, Next.js, React Native, Node.js, PostgreSQL, Prisma, Supabase, Docker
 
-LinkedIn · jasperezepue@gmail.com
+[LinkedIn](https://linkedin.com/in/ezepue-james) · jasperezepue@gmail.com
